@@ -1,2 +1,3 @@
 name: Shashwat Bajaj, SDSU Student
 markdown: kramdow
+permalink: /blog/:year/:month/:day/:title
